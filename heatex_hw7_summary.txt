@@ -1,3 +1,7 @@
+“In this assignment, the CACSD software used is Python (NumPy, SciPy, Matplotlib), which serves the same purpose as MATLAB/Simulink for numerical modeling, discretization, and simulation of dynamic systems.”
+
+here is code link:https://github.com/TIARE006/control/blob/main/7.ipynb
+
 Ad =
 [[0.967445 0.019349 0.       0.      ]
  [0.       0.967445 0.       0.      ]
